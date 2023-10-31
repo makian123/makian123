@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate backend developer from Croatia</h3>
 
-- 🔭 I’m currently working on **a game and a hobby OS**
+- 🔭 I’m currently working on **a game engine and a language**
 
 - 🌱 I’m currently learning **Operating systems** and **Networking**
 
